@@ -1,0 +1,23 @@
+div{
+    align-content: center;
+}
+
+#title{
+    text-align: center;
+    font-size: 200px;
+}
+
+.flex{
+    display: flex;
+}
+
+.dice{
+    display: flex;
+    text-align: center;
+    padding-left: 400px;
+}
+.dice1,.dice2,.dice3{
+    padding: 40px;
+    font-size: 80px;
+
+}
